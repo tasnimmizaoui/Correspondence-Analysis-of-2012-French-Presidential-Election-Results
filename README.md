@@ -76,9 +76,9 @@ These reveal associations like which candidates were more favored in specific re
 
 
 
-├── resultats\_presidentielles\_2012.csv   # Dataset file
-├── correspondence\_analysis.py          # Main script
-├── README.md                           # Project documentation
+├── resultats_presidentielles_2012.csv 
+├── AFC.py          # Main script
+├── README.md                           
 
 
 
