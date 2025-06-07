@@ -96,7 +96,7 @@ pip install pandas numpy matplotlib scipy
 3. Run the script:
 
 ```bash
-python correspondence_analysis.py
+python AFC.py
 ```
 
 ---
